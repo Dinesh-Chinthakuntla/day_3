@@ -2,11 +2,20 @@
 
 a="RESPECT"
 b=a[2:4:1]
-print("The number after slicing is : ",b)
+print("after slicing : ",b)
 
 
-c="COLLABERATION"				
+c="COLLABORATE"				
 d=c[3:5:1]
-print("The number after slicing is : ",d)
+e=c[7:11:1]
+f=c[8:10:1]
+print("after slicing : ",d)
+print("after slicing : ",e)
+print("after slicing : ",f)
+
+
+
+
+
 
 
